@@ -1,0 +1,14 @@
+[
+  {
+    "service": "Example Custom Service",
+    "cname": ["example-hosting.net"],
+    "http": ["This page could not be found", "resource not claimed"],
+    "nxdomain_confirms": true
+  },
+  {
+    "service": "Internal Staging Platform",
+    "cname": ["staging.internal-platform.com"],
+    "http": ["No deployment found for this subdomain"],
+    "nxdomain_confirms": false
+  }
+]

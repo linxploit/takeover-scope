@@ -1,0 +1,8 @@
+# One subdomain/hostname per line. Lines starting with # are ignored.
+# This is typically the output of a passive subdomain enumeration step
+# (crt.sh, Amass, Sublist3r, etc.) — feed the resulting list straight in.
+# Only assess domains you own or are explicitly authorized to test.
+blog.example.com
+shop.example.com
+old-project.example.com
+status.example.com
